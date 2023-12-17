@@ -11,7 +11,7 @@ export default {
     theme: {
         colors: {
             primary: colors.indigo,
-            secondary: colors.emerald,
+            secondary: colors.amber,
         },
         extend: {},
     },
